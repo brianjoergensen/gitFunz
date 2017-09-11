@@ -11,16 +11,24 @@ body {
     width: 960px;
     height: auto;
     margin: 0 auto;
+    padding-top: 100px;
 }
 
 h1, p {
-    color: #fff;
     font-family: Arial, sans-serif;
+    color: #fff;
+    line-height: 32px;
 }
+
+ p {
+     color: #ccc;
+     line-height: 22px;
+ }
 
 section {
     width: 100%;
     height: auto;
     float: left;
     background: #151515;
+    margin-bottom: 40px;
 }
