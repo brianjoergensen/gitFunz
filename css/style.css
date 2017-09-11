@@ -19,5 +19,8 @@ h1, p {
 }
 
 section {
+    width: 100%;
+    height: auto;
     float: left;
+    background-color: hotpink;
 }
