@@ -1,2 +1,2 @@
 # gitFunz
-A test trying out Git.
+A test trying out Git, motherfucker.

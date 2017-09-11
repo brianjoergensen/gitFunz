@@ -17,3 +17,7 @@ h1, p {
     color: #fff;
     font-family: Arial, sans-serif;
 }
+
+section {
+    float: left;
+}
